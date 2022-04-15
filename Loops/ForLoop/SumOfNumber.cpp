@@ -1,3 +1,6 @@
+// we will take a number from user and till that wew will print the sum
+//for eg, till 5, therefore 1+2+3+4+5=10 should be the sum
+
 #include<iostream>
 using namespace std;
 
