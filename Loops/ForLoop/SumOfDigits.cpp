@@ -1,3 +1,5 @@
+//like we enter 1234, therefore their sum should be 1+2+3+4=10
+
 #include<iostream>
 using namespace std;
 
