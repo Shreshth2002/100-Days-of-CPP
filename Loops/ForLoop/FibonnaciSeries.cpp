@@ -1,3 +1,4 @@
+//fibonacci series, next number is the sum of previous two numbers for example 0, 1, 1, 2, 3, 5, 8, 13, 21 etc.
 #include<iostream>
 using namespace std;
 
