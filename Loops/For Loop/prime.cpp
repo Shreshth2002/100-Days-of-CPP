@@ -10,10 +10,12 @@ int main()
 
     for(int i=1; i<=number; i++)
     {
+
         if(number%i==0)
         {
         factors++;
         }
+        
     }
 
     if(factors==2)
