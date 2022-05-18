@@ -8,4 +8,4 @@ Detailed discussion of topics are listed below and in how much time they have be
 - Loops (For,While,do-while,Nested loop) = Day6 - Day15.
 - Patterns = Day16 - Day19
 - Arrays = Day20 - Day28
-- Pointers = Day-29 - 
+- Pointers = Day-29 - Day-32
