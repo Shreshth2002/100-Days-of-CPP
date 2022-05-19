@@ -20,4 +20,5 @@ int main()
 	
 	ptr = &no;
 	cout << findFactorial(*ptr) << endl;
+
 }
